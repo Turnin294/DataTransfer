@@ -1,0 +1,33 @@
+Thank you for your interest in the DataLinkX heterogeneous data source synchronization system. Developed using Java technology, all source code is open source.
+
+To ensure your correct and legal use of this software, please carefully read the following terms and conditions before use:
+
+I. This license agreement applies only to the DataLinkX version. If you do not agree to this agreement, please do not use the software.
+
+II. Product Introduction and Product Model
+
+1. DataLinkX provides a convenient synchronization product for developers, sole proprietors, companies, and other users who need data synchronization.
+
+2. DataLinkX will not upload any data to any location other than the data storage provider associated with your deployed DataLinkX copy. However, it cannot guarantee that third-party SDKs and dependencies involved in the system will not perform data transfer operations externally.
+
+3. DataLinkX will not tamper with upstream data sources; it will only affect downstream data sources.
+
+III. Licensed Rights
+
+1. This code is prohibited from commercial use and is for learning and communication purposes only. For commercial versions, please contact the author for negotiation (DataLinkX Pro Commercial Version).
+
+IV. Limited Warranty and Disclaimer
+
+1. This software and its accompanying documents are provided on a warranty basis without any express or implied warranties or guarantees.
+
+2. Users use this software voluntarily. You must understand the risks involved. We do not promise to provide any form of technical support or usage warranty, nor do we assume any responsibility for problems arising from the use of this software.
+
+3. This electronic license agreement has the same legal effect as a written agreement signed by both parties. By using DataLinkX, you are deemed to have fully understood and accepted all the terms of this agreement, enjoying the rights granted thereto while being bound by the relevant constraints and limitations. Any actions outside the scope of this license agreement will directly violate this license agreement and constitute infringement. We have the right to terminate the license at any time, order the cessation of infringement, and reserve the right to pursue relevant liabilities.
+
+4. The DataLinkX system is deployed and used by the user. We do not provide online services, service hosting, or other similar services. When providing services externally, users must ensure that they have obtained the appropriate licenses in accordance with relevant national laws and regulations.
+
+5. Customers must not use DataLinkX products for illegal activities. Customers should use the product legally and compliantly. DataLinkX assumes no legal responsibility for any illegal activities caused by customers.
+
+6. If any illegal activities are discovered by the customer while using the product, we reserve the right to terminate the authorization, stop technical support, and cooperate with relevant authorities in investigations or report the matter to government departments.
+
+Agreement Date: November 15, 2023
